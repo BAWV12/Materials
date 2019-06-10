@@ -261,7 +261,7 @@
     <name>Heath</name>
     <texture-set>
       <texture>Terrain/deciduous-hires-autumn.png</texture>
-      <texture n="20">Terrain/mixedforest-hires-autumn.png</texture>
+      <texture n="20">Terrain/california-rock.png</texture>
     </texture-set>
     <parameters>
       <max_overlay_height>2.0</max_overlay_height>
@@ -291,7 +291,7 @@
     <name>RainForest</name>
     <texture-set>
      <texture>Terrain/mixedforest-hires-autumn.png</texture>
-     <texture n="12">Terrain/rock.png</texture> 
+     <texture n="12">Terrain/deciduous-hires.png</texture> 
      <texture n="15">Terrain/rock.png</texture>
      <texture n="20">Terrain/mixedforest-hires-autumn.png</texture>
      </texture-set>
@@ -325,7 +325,7 @@
     <texture-set>
      <texture>Terrain/forest1a.png</texture>
       <texture n="11">Terrain/grass_hires.png</texture>
-      <texture n="12">Terrain/rock.png</texture>
+      <texture n="12">Terrain/california-forest.png</texture>
       <texture n="15">Terrain/rock.png</texture>
       <texture n="20">Terrain/mixedforest-hires.png</texture>
     </texture-set>
